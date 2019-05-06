@@ -1,0 +1,17 @@
+* {
+    margin: 0px 0px;
+}
+
+#paragraph {
+font-family: 'Muli', sans-serif;
+    background-image: url("https://png.pngtree.com/element_origin_min_pic/16/11/22/a83fc02959761666ba0364e9538066c4.jpg");
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    align-content: center;  
+    padding-top: 650px;
+}
+.email{
+    text-decoration: underline;
+    color: green;
+}
